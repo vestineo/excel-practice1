@@ -1,2 +1,3 @@
-# excel-practice1
-Excel formula practice - Topmentor Batch 88
+# Excel Practice 1
+
+These excel assignment focused on `countif`, `sumif` etc. excel formulas.
